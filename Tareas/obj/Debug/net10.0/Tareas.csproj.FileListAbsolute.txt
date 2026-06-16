@@ -1,0 +1,15 @@
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\bin\Debug\net10.0\Tareas.exe
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\bin\Debug\net10.0\Tareas.deps.json
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\bin\Debug\net10.0\Tareas.runtimeconfig.json
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\bin\Debug\net10.0\Tareas.dll
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\bin\Debug\net10.0\Tareas.pdb
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.AssemblyInfo.cs
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.sourcelink.json
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.dll
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\refint\Tareas.dll
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.pdb
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\Tareas.genruntimeconfig.cache
+C:\Users\nukhe\Desktop\Taller-Lenguajes-I\tp10\tl1-tp10-2026-lukamateocostaocampo\Tareas\obj\Debug\net10.0\ref\Tareas.dll
