@@ -40,5 +40,8 @@ private static async Task GetEndpointClase()
 
         Console.WriteLine($"Título: {tarea.Titulo} ----- Estado: {(tarea.Completada ? "completada" : "pendiente")}");
     }
+
+    string nombreArchivo = "tareas.json";
+    File.WriteAllText(nombreArchivo, JsonSerializer.Serialize(listaTareas));
  }
 }
